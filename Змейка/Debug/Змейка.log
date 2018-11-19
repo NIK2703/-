@@ -1,0 +1,54 @@
+﻿Сборка начата 19.11.2018 21:18:12.
+     1>Проект "C:\Users\User\Documents\Visual Studio 2013\Projects\Змейка\Змейка\Змейка.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(254): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(262): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(267): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230): см. объявление "fscanf"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(268): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356): см. объявление "sprintf"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(270): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230): см. объявление "fscanf"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(273): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(518): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(542): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(566): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(574): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(580): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(624): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(631): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211): см. объявление "fopen"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(633): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(673): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356): см. объявление "sprintf"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(674): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356): см. объявление "sprintf"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(772): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(789): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(886): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356): см. объявление "sprintf"
+     1>c:\users\user\documents\visual studio 2013\projects\змейка\змейка\main.cpp(1867): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356): см. объявление "sprintf"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\Visual Studio 2013\Projects\Змейка\Debug\Змейка.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Documents\Visual Studio 2013\Projects\Змейка\Debug\Змейка.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\Visual Studio 2013\Projects\Змейка\Debug\Змейка.lib" /MACHINE:X86 Debug\main.obj
+     1>main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+         Змейка.vcxproj -> C:\Users\User\Documents\Visual Studio 2013\Projects\Змейка\Debug\Змейка.exe
+     1>Сборка проекта "C:\Users\User\Documents\Visual Studio 2013\Projects\Змейка\Змейка\Змейка.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.46
